@@ -20,7 +20,7 @@
 	</dependencies>
 	<profiles>
 		<profile>
-			<id>SS </id>
+			<id>SS</id>
 			<build>
 				<plugins>
 					<plugin>
