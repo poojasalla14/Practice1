@@ -10,7 +10,7 @@ public class DemoTest {
 	public void subTest() {
 		System.out.println("sub test");
 		System.out.println("sub  the new model ");
-		System.out.println("addd new button");
+		System.out.println("add new button");
 		
 		
 	}
